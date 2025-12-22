@@ -1,1 +1,2 @@
 Hello from sample1.txt
+GIT BRANCH MERGING CONCEPT
