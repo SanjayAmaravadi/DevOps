@@ -1,1 +1,2 @@
 Hello from sample3.txt
+This is the Stach topic updated in sample3.txt
