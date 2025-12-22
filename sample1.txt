@@ -1,2 +1,4 @@
 Hello from sample1.txt
 GIT BRANCH MERGING CONCEPT
+
+updated sample1.txt
