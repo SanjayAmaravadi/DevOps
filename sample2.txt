@@ -1,2 +1,1 @@
 Hello from sample2.txt
-Testing git revert
